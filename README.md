@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a software development student and future systems engineer, full stack developer with knowledge in database management and DevOps, interested in the field of data science and machine learning.</p>
+<p align="left">I am a software development and future systems engineer, full stack developer with knowledge in database management and DevOps, interested in the field of data science and machine learning.</p>
 
 ###
 
